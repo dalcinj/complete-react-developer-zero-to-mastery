@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/complete-react-developer-zero-to-mastery/static/css/main.33968923.chunk.css",
+    "main.js": "/complete-react-developer-zero-to-mastery/static/js/main.1ddd64d8.chunk.js",
+    "main.js.map": "/complete-react-developer-zero-to-mastery/static/js/main.1ddd64d8.chunk.js.map",
+    "runtime-main.js": "/complete-react-developer-zero-to-mastery/static/js/runtime-main.c56f9f8d.js",
+    "runtime-main.js.map": "/complete-react-developer-zero-to-mastery/static/js/runtime-main.c56f9f8d.js.map",
+    "static/js/2.9e7d0785.chunk.js": "/complete-react-developer-zero-to-mastery/static/js/2.9e7d0785.chunk.js",
+    "static/js/2.9e7d0785.chunk.js.map": "/complete-react-developer-zero-to-mastery/static/js/2.9e7d0785.chunk.js.map",
+    "index.html": "/complete-react-developer-zero-to-mastery/index.html",
+    "precache-manifest.0a57d77f494d1f9813cc330856ca0229.js": "/complete-react-developer-zero-to-mastery/precache-manifest.0a57d77f494d1f9813cc330856ca0229.js",
+    "service-worker.js": "/complete-react-developer-zero-to-mastery/service-worker.js",
+    "static/css/main.33968923.chunk.css.map": "/complete-react-developer-zero-to-mastery/static/css/main.33968923.chunk.css.map",
+    "static/js/2.9e7d0785.chunk.js.LICENSE": "/complete-react-developer-zero-to-mastery/static/js/2.9e7d0785.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56f9f8d.js",
+    "static/js/2.9e7d0785.chunk.js",
+    "static/css/main.33968923.chunk.css",
+    "static/js/main.1ddd64d8.chunk.js"
+  ]
+}
